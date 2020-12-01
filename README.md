@@ -1,12 +1,12 @@
 # find-me-on-github
-I have developed a react-redux project with sagas using github open source api, which provides a search functionality and displays user details on github.  
+A react-redux project with sagas which has a search functionality and displays user details provided on github, using github open source API
 
 Steps for local setup:
 1. npm i to install required modules.
 2. npm start
 3. open http://localhost:3000/ in browser
 
-Feats:
+Features:
 1. Landing Page: Search functionality for github users. (Ex; Search 'imsam7')
 2. User Route: Display user details of github user.
 3. Repositories Route: Display repos of the user on clicking Repositories.
