@@ -7,8 +7,10 @@ Steps for local setup:
 3. open http://localhost:3000/ in browser
 
 Feats:
-1. Landing Page: Search functionality for github users.
+1. Landing Page: Search functionality for github users. (Ex; Search 'imsam7')
 2. User Route: Display user details of github user.
 3. Repositories Route: Display repos of the user on clicking Repositories.
 4. Following Route: Display following of the user on clicking Following.
 5. Followers Route: Display follower of the user on clicking Followers.
+
+PFA snap of my github details in LayoutScreenshot.PNG
