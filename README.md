@@ -13,4 +13,4 @@ Features:
 4. Following Route: Display following of the user on clicking Following.
 5. Followers Route: Display follower of the user on clicking Followers.
 
-PFA snap of my github details in LayoutScreenshot.PNG
+![alt text](https://github.com/imsam7/find-me-on-github/blob/master/LayoutScreenshot.PNG?raw=true)
