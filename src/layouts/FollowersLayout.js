@@ -12,7 +12,7 @@ function FollowersLayout({ followersData }) {
                         <img src={follower.avatar_url} alt="Avatar" style={{ width: '20%' }} />
                         <div className="container">
                             <h4><b>{follower.login}</b></h4>
-                            <a href={follower.html_url}>Visit Profile on Github</a>
+                            <a href={follower.html_url} target="_blank">Visit Profile on Github</a>
                         </div>
                     </div>
                     // <div>

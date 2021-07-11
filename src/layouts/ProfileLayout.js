@@ -11,7 +11,7 @@ function ProfileLayout({ userDetails }) {
                     {userDetails.location && <h3>Currently in <b>{userDetails.location}</b></h3>}
 
                     <p>{userDetails.bio}</p>
-                    <a href={userDetails.html_url}>Visit Profile on Github</a>
+                    <a href={userDetails.html_url} target="_blank">Visit Profile on Github</a>
                 </div>
                     <img src={userDetails.avatar_url} alt="Avatar" className="img"></img>
                 </center>

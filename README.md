@@ -1,6 +1,8 @@
 # find-me-on-github
 A react-redux project with sagas which has a search functionality and displays user details provided on github, using github open source API
 
+Find the demo of the project [here](https://imsam7.github.io/find-me-on-github/).
+
 Steps for local setup:
 1. npm i to install required modules.
 2. npm start
